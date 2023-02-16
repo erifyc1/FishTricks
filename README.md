@@ -2,11 +2,13 @@
 Final project for 2020 National High School Game Academy @ Carnegie Mellon
 
 ## Contributors
-* Xander Fermier
-* Ang Pei
-* Jacob Scarborough
-* Jacob Stolker
-* Maxwell Tu
+Name | Role
+| --------------- | -------------------- |
+Xander Fermier    | Programmer
+Ang Pei           | Sound Designer
+Jacob Scarborough | 2D Artist
+Jacob Stolker     | Producer, Programmer
+Maxwell Tu        | 3D Artist
 
 ## Award
 During the program, FishTricks won the Ricardo Washington Award for Technical Art. 
