@@ -2,14 +2,16 @@
 Final project for 2020 National High School Game Academy @ Carnegie Mellon
 
 ## Contributors
-* Ang Pei
-* Maxwell Tu
 * Xander Fermier
-* Jacob Stolker
+* Ang Pei
 * Jacob Scarborough
+* Jacob Stolker
+* Maxwell Tu
 
+## Award
+During the program, FishTricks won the Ricardo Washington Award for Technical Art. 
+This award is given to a game with sophisticated and detailed assets which culminate in an immersive game environment.
 ## About the Game
-
 FishTricks is a unique and fun game that takes inspiration from classic skating games, but with a twist: instead of skating, players control a fish that glides through the water, performing all sorts of flips and spins. The game is set in an open-world environment and features a variety of interesting obstacles to jump over, such as rocks and waterfalls.
 
 As you play, you can collect fish tokens scattered throughout the game world. While these tokens do not unlock new tricks or abilities, they serve as a fun collectible and provide a little extra challenge as you try to collect them all.
