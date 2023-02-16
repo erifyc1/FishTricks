@@ -7,8 +7,8 @@ Name | Role
 Jacob Stolker     | Producer, Programmer
 Xander Fermier    | Programmer
 Ang Pei           | Sound Designer
-Jacob Scarborough | 2D Artist
 Maxwell Tu        | 3D Artist
+Jacob Scarborough | 2D Artist
 
 ## Award
 During the program, FishTricks won the Ricardo Washington Award for Technical Art. 
