@@ -4,10 +4,10 @@ Final project for 2020 National High School Game Academy @ Carnegie Mellon
 ## Contributors
 Name | Role
 | --------------- | -------------------- |
+Jacob Stolker     | Producer, Programmer
 Xander Fermier    | Programmer
 Ang Pei           | Sound Designer
 Jacob Scarborough | 2D Artist
-Jacob Stolker     | Producer, Programmer
 Maxwell Tu        | 3D Artist
 
 ## Award
