@@ -2,7 +2,7 @@
 Final project for 2020 National High School Game Academy @ Carnegie Mellon
 
 ## Contributors
-Name | Role
+Name | Role(s)
 | --------------- | -------------------- |
 Jacob Stolker     | Producer, Programmer
 Xander Fermier    | Programmer
